@@ -35,3 +35,33 @@
     padding: 0.5rem;
     box-shadow: 0px 5px 20px black;
 }
+
+.header {
+    padding: 1rem;
+    background-color: dimgrey;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    font-family: fantasy;
+    color: aquamarine;
+}
+
+.row {
+    margin-right: 0;
+    margin-left: 0;
+    justify-content: center;
+}
+
+.footer {
+    /* position: absolute; */
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    background-color: dimgrey;
+}
+
+.conatiner_loader {
+    display: flex;
+    justify-content: center;
+    /* margin-top: 10rem; */
+}
